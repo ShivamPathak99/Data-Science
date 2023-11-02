@@ -1,2 +1,2 @@
 # Data-Science
- Projects, Guides and Techniques for Data Science 
+ Projects, Techniques and Guides for Data Science 
